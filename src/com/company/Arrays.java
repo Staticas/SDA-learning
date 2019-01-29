@@ -4,8 +4,8 @@ public class Arrays {
     public static void main(String[] args){
         int[] num1 = {2,4,5,1};
 
-        int[] num2 = new int[5];
-        num2[0] = 2;
+        int[] num2 = new int[5]; // declaration
+        num2[0] = 2; //initialization
         num2[1] = 4;
         num2[2] = 5;
         num2[3] = 1;

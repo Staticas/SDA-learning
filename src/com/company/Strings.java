@@ -7,6 +7,7 @@ public class Strings {
         String str = "hello";
         str += " world";
 
+
             // for(int i = 0; i<1000; i++){
            // str += "!";
           //} // allocates a lot of strings= memory

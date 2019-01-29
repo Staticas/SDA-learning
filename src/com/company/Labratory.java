@@ -1,9 +1,10 @@
 package com.company;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class Labratory {
 
 
-    public static Double multiply(Double a, Double b) {
-        return a * b;
-    }
+
 }
